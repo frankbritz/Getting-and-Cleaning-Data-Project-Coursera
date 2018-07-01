@@ -1,11 +1,11 @@
 # Code Book
 
-This code book summarizes the resulting data fields in tidy.txt.
+This material simplifies the resultant data field in the tidy.txt.
 
 # Identifiers
 
-* subject - The ID of the test subject
-* activity - The type of activity performed when the corresponding measurements were taken
+* subject - ID of the test subject
+* activity - type of activity performed when the corresponding measurements were taken
 
 # Measurements
 
